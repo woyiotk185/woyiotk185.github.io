@@ -34,7 +34,7 @@
       <link href="/2024/02/20/test-mk/"/>
       <url>/2024/02/20/test-mk/</url>
       
-        <content type="html"><![CDATA[<h1 id="测试markdown语法"><a href="#测试markdown语法" class="headerlink" title="测试markdown语法"></a>测试markdown语法</h1><p>插入一张本地图片<img src="/1.jpg"></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="测试markdown语法"><a href="#测试markdown语法" class="headerlink" title="测试markdown语法"></a>测试markdown语法</h1><p>插入一张本地图片<img src="/2024/02/20/test-mk/1.jpg"></p>]]></content>
       
       
       
@@ -47,7 +47,7 @@
       <link href="/2024/02/20/myblog/"/>
       <url>/2024/02/20/myblog/</url>
       
-        <content type="html"><![CDATA[<p><img src="/1.jpg"><br>今日入驻github</p>]]></content>
+        <content type="html"><![CDATA[<p><img src="/2024/02/20/myblog/1.jpg"><br>今日入驻github</p>]]></content>
       
       
       
