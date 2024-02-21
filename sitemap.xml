@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.shuzistore.com/about/index.html</loc>
+    <loc>https://shuzistore.com/about/index.html</loc>
     
     <lastmod>2024-02-21</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://www.shuzistore.com/categories/index.html</loc>
+    <loc>https://shuzistore.com/categories/index.html</loc>
     
     <lastmod>2024-02-21</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://www.shuzistore.com/tags/index.html</loc>
+    <loc>https://shuzistore.com/tags/index.html</loc>
     
     <lastmod>2024-02-21</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://www.shuzistore.com/post/4a17b133.html</loc>
+    <loc>https://shuzistore.com/post/4a17b133.html</loc>
     
     <lastmod>2024-02-21</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://www.shuzistore.com/post/4a17b156.html</loc>
+    <loc>https://shuzistore.com/post/4a17b156.html</loc>
     
     <lastmod>2024-02-21</lastmod>
     
@@ -48,7 +48,7 @@
   
 
   <url>
-    <loc>https://www.shuzistore.com/</loc>
+    <loc>https://shuzistore.com/</loc>
     <lastmod>2024-02-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -56,35 +56,35 @@
 
   
   <url>
-    <loc>https://www.shuzistore.com/tags/Hexo/</loc>
+    <loc>https://shuzistore.com/tags/Hexo/</loc>
     <lastmod>2024-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.shuzistore.com/tags/MarkDown/</loc>
+    <loc>https://shuzistore.com/tags/MarkDown/</loc>
     <lastmod>2024-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.shuzistore.com/tags/%E5%A5%88%E9%A3%9E/</loc>
+    <loc>https://shuzistore.com/tags/%E5%A5%88%E9%A3%9E/</loc>
     <lastmod>2024-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.shuzistore.com/tags/Netflix/</loc>
+    <loc>https://shuzistore.com/tags/Netflix/</loc>
     <lastmod>2024-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.shuzistore.com/tags/%E6%B5%81%E5%AA%92%E4%BD%93/</loc>
+    <loc>https://shuzistore.com/tags/%E6%B5%81%E5%AA%92%E4%BD%93/</loc>
     <lastmod>2024-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -93,28 +93,28 @@
 
   
   <url>
-    <loc>https://www.shuzistore.com/categories/Hexo/</loc>
+    <loc>https://shuzistore.com/categories/Hexo/</loc>
     <lastmod>2024-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.shuzistore.com/categories/Hexo/MarkDown/</loc>
+    <loc>https://shuzistore.com/categories/Hexo/MarkDown/</loc>
     <lastmod>2024-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.shuzistore.com/categories/%E5%A5%88%E9%A3%9E/</loc>
+    <loc>https://shuzistore.com/categories/%E5%A5%88%E9%A3%9E/</loc>
     <lastmod>2024-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.shuzistore.com/categories/%E5%A5%88%E9%A3%9E/%E6%B5%81%E5%AA%92%E4%BD%93/</loc>
+    <loc>https://shuzistore.com/categories/%E5%A5%88%E9%A3%9E/%E6%B5%81%E5%AA%92%E4%BD%93/</loc>
     <lastmod>2024-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
