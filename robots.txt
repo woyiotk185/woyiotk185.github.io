@@ -1,6 +1,14 @@
 # hexo robots.txt
 User-agent: *
-Allow: /
+#Allow: /
+
+# 不允许访问的内容
+Disallow: /img/
+Disallow: /css/
+Disallow: /js/
+Disallow: /photos/
+Disallow: /*.css
+Disallow: /*.js
 
 Sitemap: https://www.shuzistore.com/sitemap.xml
 Sitemap: https://www.shuzistore.com/baidusitemap.xml
