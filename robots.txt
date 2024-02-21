@@ -1,0 +1,6 @@
+# hexo robots.txt
+User-agent: *
+Allow: /
+
+Sitemap: https://www.shuzistore.com/sitemap.xml
+Sitemap: https://www.shuzistore.com/baidusitemap.xml
