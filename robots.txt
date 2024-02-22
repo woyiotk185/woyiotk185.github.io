@@ -1,7 +1,11 @@
 # hexo robots.txt
 User-agent: *
-#Allow: /
-
+Allow: /
+Allow: /post/
+Allow: /archives/
+Allow: /categories/
+Allow: /tags/ 
+Allow: /resources/
 # 不允许访问的内容
 Disallow: /img/
 Disallow: /css/
