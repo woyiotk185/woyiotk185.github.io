@@ -55,6 +55,15 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://shuzistore.com/post/4a17b187.html</loc>
+    
+    <lastmod>2024-02-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   <url>
     <loc>https://shuzistore.com/</loc>
@@ -66,6 +75,13 @@
   
   <url>
     <loc>https://shuzistore.com/tags/appleid/</loc>
+    <lastmod>2024-02-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://shuzistore.com/tags/%E7%BE%8E%E5%8C%BAappleid%E6%B3%A8%E5%86%8C/</loc>
     <lastmod>2024-02-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -124,6 +140,13 @@
   
   <url>
     <loc>https://shuzistore.com/categories/Hexo/</loc>
+    <lastmod>2024-02-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://shuzistore.com/categories/appleid/%E7%BE%8E%E5%8C%BAappleid%E6%B3%A8%E5%86%8C/</loc>
     <lastmod>2024-02-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
